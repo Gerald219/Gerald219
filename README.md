@@ -8,6 +8,7 @@ My coursework includes C, Python, JavaScript, HTML/CSS, Linux, SQL, Git, debuggi
 
 | Project | What to look at |
 | --- | --- |
+| [Bilingual Intake Lab](https://github.com/Gerald219/NEW_PROJECT_2026/tree/main/chatbot) · [Live demo](https://gerald219.github.io/NEW_PROJECT_2026/chatbot/) | English/Spanish guided intake, structured-response validation, simulated handoff, and QA evidence; an AI-assisted adaptation of private project work |
 | [HBnB API](https://github.com/Gerald219/holbertonschool-hbnb) | Flask API, SQLAlchemy persistence, JWT authentication, and API tests |
 | [Simple shell](https://github.com/Gerald219/holbertonschool-simple_shell) | C process execution, PATH lookup, memory handling, and regression tests |
 | [ReadyPack](https://github.com/Gerald219/NEW_PROJECT_2026) | Separate packing-checklist demo with browser storage, import/export, and QA documentation; developed with AI assistance |
